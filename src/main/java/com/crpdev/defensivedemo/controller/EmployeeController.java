@@ -1,7 +1,7 @@
-package com.techprimers.defensivedemo.controller;
+package com.crpdev.defensivedemo.controller;
 
-import com.techprimers.defensivedemo.model.Employee;
-import com.techprimers.defensivedemo.service.EmployeeService;
+import com.crpdev.defensivedemo.model.Employee;
+import com.crpdev.defensivedemo.service.EmployeeService;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 

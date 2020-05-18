@@ -1,4 +1,4 @@
-package com.techprimers.defensivedemo.model;
+package com.crpdev.defensivedemo.model;
 
 import lombok.Data;
 import lombok.Getter;

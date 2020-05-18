@@ -1,6 +1,6 @@
-package com.techprimers.defensivedemo.repository;
+package com.crpdev.defensivedemo.repository;
 
-import com.techprimers.defensivedemo.model.Employee;
+import com.crpdev.defensivedemo.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
